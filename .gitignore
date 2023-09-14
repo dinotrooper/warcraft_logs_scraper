@@ -1,0 +1,4 @@
+.keyfile
+env/
+__pycache__/
+log/
